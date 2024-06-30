@@ -1,6 +1,7 @@
 .btn {
   font-size: 16px;
   cursor: pointer;
+  outline: none;
 }
 
 .search-button {
@@ -13,4 +14,11 @@
   font-weight: 400;
   line-height: 150%;
   color: #fff;
+}
+
+.search-button:hover {
+  background: #8f84f2;
+}
+.search-button:active {
+  background: #6657f2;
 }
