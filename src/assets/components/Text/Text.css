@@ -1,0 +1,29 @@
+.text {
+  font-weight: 400;
+}
+
+.text-color-gray {
+  color: #767E94;
+}
+
+.text-color-light-gray {
+  color: #8e95a9;
+}
+
+.text-color-white {
+  color: #c3c8d4;
+}
+
+.text-size-medium {
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.text-size-large {
+  font-size: 20px;
+  line-height: 160%;
+}
+
+.text-size-x-large {
+  font-weight: 700;
+}
